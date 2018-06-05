@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 1afcd430be0896c4d87276860ac15124
+timeCreated: 1527577926
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: fridgeContents
+    100002: fridgeDoor
+    100004: fryer1
+    100006: fryer2
+    100008: //RootNode
+    100010: kitchenSink1
+    100012: miniFridge
+    100014: pCube22
+    100016: pCube23
+    100018: pCube24
+    100020: pCube25
+    100022: pCube26
+    100024: pCube27
+    100026: pCube28
+    100028: pCube29
+    100030: pCylinder21
+    100032: pCylinder22
+    100034: pCylinder23
+    100036: pCylinder24
+    100038: pCylinder25
+    100040: pCylinder26
+    100042: pCylinder27
+    100044: pCylinder28
+    100046: pCylinder29
+    100048: pCylinder30
+    100050: pCylinder31
+    100052: pCylinder32
+    100054: pCylinder33
+    100056: pot
+    100058: pot1
+    100060: potTop1
+    100062: sinkBase
+    100064: tap1
+    100066: tap2
+    400000: fridgeContents
+    400002: fridgeDoor
+    400004: fryer1
+    400006: fryer2
+    400008: //RootNode
+    400010: kitchenSink1
+    400012: miniFridge
+    400014: pCube22
+    400016: pCube23
+    400018: pCube24
+    400020: pCube25
+    400022: pCube26
+    400024: pCube27
+    400026: pCube28
+    400028: pCube29
+    400030: pCylinder21
+    400032: pCylinder22
+    400034: pCylinder23
+    400036: pCylinder24
+    400038: pCylinder25
+    400040: pCylinder26
+    400042: pCylinder27
+    400044: pCylinder28
+    400046: pCylinder29
+    400048: pCylinder30
+    400050: pCylinder31
+    400052: pCylinder32
+    400054: pCylinder33
+    400056: pot
+    400058: pot1
+    400060: potTop1
+    400062: sinkBase
+    400064: tap1
+    400066: tap2
+    2100000: deskTexture
+    2100002: miscGreyTxt
+    2100004: kitchenSinkTxt
+    2100006: glassTxt
+    2100008: miscMetal3
+    2100010: potsTxt
+    2100012: shutterBlindTexture
+    2100014: miscMetal1
+    2100016: laptopTexture
+    2100018: blueTexture
+    2100020: redTexture
+    2100022: canTexture
+    2100024: fridgeElementTxt1
+    2100026: noodleTxt
+    2100028: fridgeElementTxt3
+    2100030: fridgeElementTxt2
+    2300000: fridgeDoor
+    2300002: fryer1
+    2300004: fryer2
+    2300006: miniFridge
+    2300008: pCube22
+    2300010: pCube23
+    2300012: pCube24
+    2300014: pCube25
+    2300016: pCube26
+    2300018: pCube27
+    2300020: pCube28
+    2300022: pCube29
+    2300024: pCylinder21
+    2300026: pCylinder22
+    2300028: pCylinder23
+    2300030: pCylinder24
+    2300032: pCylinder25
+    2300034: pCylinder26
+    2300036: pCylinder27
+    2300038: pCylinder28
+    2300040: pCylinder29
+    2300042: pCylinder30
+    2300044: pCylinder31
+    2300046: pCylinder32
+    2300048: pCylinder33
+    2300050: pot1
+    2300052: potTop1
+    2300054: sinkBase
+    2300056: tap1
+    2300058: tap2
+    3300000: fridgeDoor
+    3300002: fryer1
+    3300004: fryer2
+    3300006: miniFridge
+    3300008: pCube22
+    3300010: pCube23
+    3300012: pCube24
+    3300014: pCube25
+    3300016: pCube26
+    3300018: pCube27
+    3300020: pCube28
+    3300022: pCube29
+    3300024: pCylinder21
+    3300026: pCylinder22
+    3300028: pCylinder23
+    3300030: pCylinder24
+    3300032: pCylinder25
+    3300034: pCylinder26
+    3300036: pCylinder27
+    3300038: pCylinder28
+    3300040: pCylinder29
+    3300042: pCylinder30
+    3300044: pCylinder31
+    3300046: pCylinder32
+    3300048: pCylinder33
+    3300050: pot1
+    3300052: potTop1
+    3300054: sinkBase
+    3300056: tap1
+    3300058: tap2
+    4300000: sinkBase
+    4300002: fryer2
+    4300004: fryer1
+    4300006: pot1
+    4300008: potTop1
+    4300010: tap1
+    4300012: tap2
+    4300014: miniFridge
+    4300016: fridgeDoor
+    4300018: pCube22
+    4300020: pCube23
+    4300022: pCube24
+    4300024: pCube25
+    4300026: pCylinder21
+    4300028: pCylinder22
+    4300030: pCylinder23
+    4300032: pCylinder24
+    4300034: pCylinder25
+    4300036: pCylinder26
+    4300038: pCylinder27
+    4300040: pCylinder28
+    4300042: pCylinder29
+    4300044: pCylinder30
+    4300046: pCylinder31
+    4300048: pCylinder32
+    4300050: pCube26
+    4300052: pCube27
+    4300054: pCube28
+    4300056: pCube29
+    4300058: pCylinder33
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blueTexture
+    second: {fileID: 2100000, guid: 62e33155eb46b4040a40ce5fc1cf4402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canTexture
+    second: {fileID: 2100000, guid: 29d841784dcc27842947c2e43f61f6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: deskTexture
+    second: {fileID: 2100000, guid: a8f0df0407ba991458b4b64e7f7a2aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fridgeElementTxt1
+    second: {fileID: 2100000, guid: c5315543fefa5044e851fa2ff6ad772f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fridgeElementTxt2
+    second: {fileID: 2100000, guid: 083bb162abdce7d41ad967d78c436d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fridgeElementTxt3
+    second: {fileID: 2100000, guid: 0bc8a70ca2684bf4e8b4007102aa6a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassTxt
+    second: {fileID: 2100000, guid: 74f1709ff46429041836de4370d48486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitchenSinkTxt
+    second: {fileID: 2100000, guid: 49fe6e228c2a63846839db9eb86ccb9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laptopTexture
+    second: {fileID: 2100000, guid: d2a5f4233e51cb849b8a4580fbdaaead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miscGreyTxt
+    second: {fileID: 2100000, guid: b8d9790780202b4458d7d5f3822b2b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miscMetal1
+    second: {fileID: 2100000, guid: f7bda739ffc84d2418447c0c9d90385d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miscMetal3
+    second: {fileID: 2100000, guid: 7f074bd7e7314ba4a9d44344d166bbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: noodleTxt
+    second: {fileID: 2100000, guid: d0bf358a4e6c1964289905c69735095f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potsTxt
+    second: {fileID: 2100000, guid: b79e473955bd1504eaa71be508e1d3c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redTexture
+    second: {fileID: 2100000, guid: 39f1684bcc46d2943bd748163bba5d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shutterBlindTexture
+    second: {fileID: 2100000, guid: 65932f8b4dd5a234d892fbd6a51fcdc0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
